@@ -1,0 +1,8 @@
+{
+  "foo": "something1",
+  "bar": "something2",
+  "user": {
+    "id": 35,
+    "name": "Prashanna Bhandary"
+  }
+}
